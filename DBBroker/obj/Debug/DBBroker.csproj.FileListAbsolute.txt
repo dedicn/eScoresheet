@@ -1,0 +1,9 @@
+C:\Users\neven\OneDrive\Desktop\ProSoftSeminarski\Server\DBBroker\bin\Debug\DBBroker.dll
+C:\Users\neven\OneDrive\Desktop\ProSoftSeminarski\Server\DBBroker\bin\Debug\DBBroker.pdb
+C:\Users\neven\OneDrive\Desktop\ProSoftSeminarski\Server\DBBroker\bin\Debug\Common.dll
+C:\Users\neven\OneDrive\Desktop\ProSoftSeminarski\Server\DBBroker\bin\Debug\Common.pdb
+C:\Users\neven\OneDrive\Desktop\ProSoftSeminarski\Server\DBBroker\obj\Debug\DBBroker.csproj.AssemblyReference.cache
+C:\Users\neven\OneDrive\Desktop\ProSoftSeminarski\Server\DBBroker\obj\Debug\DBBroker.csproj.CoreCompileInputs.cache
+C:\Users\neven\OneDrive\Desktop\ProSoftSeminarski\Server\DBBroker\obj\Debug\DBBroker.dll
+C:\Users\neven\OneDrive\Desktop\ProSoftSeminarski\Server\DBBroker\obj\Debug\DBBroker.pdb
+C:\Users\neven\OneDrive\Desktop\ProSoftSeminarski\Server\DBBroker\obj\Debug\DBBroker.csproj.Up2Date

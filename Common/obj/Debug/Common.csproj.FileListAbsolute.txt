@@ -1,0 +1,6 @@
+C:\Users\neven\OneDrive\Desktop\ProSoftSeminarski\Server\Common\bin\Debug\Common.dll
+C:\Users\neven\OneDrive\Desktop\ProSoftSeminarski\Server\Common\bin\Debug\Common.pdb
+C:\Users\neven\OneDrive\Desktop\ProSoftSeminarski\Server\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\neven\OneDrive\Desktop\ProSoftSeminarski\Server\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\neven\OneDrive\Desktop\ProSoftSeminarski\Server\Common\obj\Debug\Common.dll
+C:\Users\neven\OneDrive\Desktop\ProSoftSeminarski\Server\Common\obj\Debug\Common.pdb

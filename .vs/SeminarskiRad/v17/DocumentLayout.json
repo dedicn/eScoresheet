@@ -1,0 +1,990 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2667520E-0CA0-47FC-9736-0E8EC3E08F12}|Client\\Client.csproj|c:\\users\\neven\\onedrive\\desktop\\server\\client\\guicontroller\\gameguicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2667520E-0CA0-47FC-9736-0E8EC3E08F12}|Client\\Client.csproj|solutionrelative:client\\guicontroller\\gameguicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2667520E-0CA0-47FC-9736-0E8EC3E08F12}|Client\\Client.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\client\\communication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2667520E-0CA0-47FC-9736-0E8EC3E08F12}|Client\\Client.csproj|solutionrelative:client\\communication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\server\\clienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|solutionrelative:server\\clienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\server\\systemoperations\\izmeniutakmicuso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|solutionrelative:server\\systemoperations\\izmeniutakmicuso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\server\\systemoperations\\izmeniigracaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|solutionrelative:server\\systemoperations\\izmeniigracaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\server\\systemoperations\\izbrisiutakmicu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|solutionrelative:server\\systemoperations\\izbrisiutakmicu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\server\\systemoperations\\izbrisitim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|solutionrelative:server\\systemoperations\\izbrisitim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\server\\systemoperations\\izbrisiigrace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|solutionrelative:server\\systemoperations\\izbrisiigrace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\server\\systemoperations\\unesiutakmicuso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|solutionrelative:server\\systemoperations\\unesiutakmicuso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\server\\systemoperations\\unesitimso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|solutionrelative:server\\systemoperations\\unesitimso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\server\\systemoperations\\unesirezultatso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|solutionrelative:server\\systemoperations\\unesirezultatso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\server\\systemoperations\\unesiigracaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|solutionrelative:server\\systemoperations\\unesiigracaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\server\\systemoperations\\ucitajutakmicuso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|solutionrelative:server\\systemoperations\\ucitajutakmicuso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\server\\systemoperations\\ucitajutakmiceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|solutionrelative:server\\systemoperations\\ucitajutakmiceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\server\\systemoperations\\ucitajtipoveutakmicaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|solutionrelative:server\\systemoperations\\ucitajtipoveutakmicaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\server\\systemoperations\\ucitajtimso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|solutionrelative:server\\systemoperations\\ucitajtimso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\server\\systemoperations\\ucitajtimoveso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|solutionrelative:server\\systemoperations\\ucitajtimoveso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\server\\systemoperations\\ucitajrezultatso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|solutionrelative:server\\systemoperations\\ucitajrezultatso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\server\\systemoperations\\ucitajigraceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|solutionrelative:server\\systemoperations\\ucitajigraceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\server\\systemoperations\\ucitajigracaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|solutionrelative:server\\systemoperations\\ucitajigracaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4915D4-D4FB-4C7E-828B-221F1E9BD2E0}|DBBroker\\DBBroker.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\dbbroker\\broker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4915D4-D4FB-4C7E-828B-221F1E9BD2E0}|DBBroker\\DBBroker.csproj|solutionrelative:dbbroker\\broker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2667520E-0CA0-47FC-9736-0E8EC3E08F12}|Client\\Client.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\client\\guicontroller\\startgameguicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2667520E-0CA0-47FC-9736-0E8EC3E08F12}|Client\\Client.csproj|solutionrelative:client\\guicontroller\\startgameguicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|solutionrelative:server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\server\\systemoperations\\systemoperationbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|solutionrelative:server\\systemoperations\\systemoperationbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\server\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|solutionrelative:server\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\server\\systemoperations\\izracunajrezultatso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|solutionrelative:server\\systemoperations\\izracunajrezultatso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\server\\systemoperations\\kreirajrezultatso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|solutionrelative:server\\systemoperations\\kreirajrezultatso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2667520E-0CA0-47FC-9736-0E8EC3E08F12}|Client\\Client.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\client\\guicontroller\\maincoordinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2667520E-0CA0-47FC-9736-0E8EC3E08F12}|Client\\Client.csproj|solutionrelative:client\\guicontroller\\maincoordinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2667520E-0CA0-47FC-9736-0E8EC3E08F12}|Client\\Client.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\client\\guicontroller\\loginguicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2667520E-0CA0-47FC-9736-0E8EC3E08F12}|Client\\Client.csproj|solutionrelative:client\\guicontroller\\loginguicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2667520E-0CA0-47FC-9736-0E8EC3E08F12}|Client\\Client.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\client\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2667520E-0CA0-47FC-9736-0E8EC3E08F12}|Client\\Client.csproj|solutionrelative:client\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2667520E-0CA0-47FC-9736-0E8EC3E08F12}|Client\\Client.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\client\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2667520E-0CA0-47FC-9736-0E8EC3E08F12}|Client\\Client.csproj|solutionrelative:client\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2667520E-0CA0-47FC-9736-0E8EC3E08F12}|Client\\Client.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\client\\guicontroller\\teamguicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2667520E-0CA0-47FC-9736-0E8EC3E08F12}|Client\\Client.csproj|solutionrelative:client\\guicontroller\\teamguicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2667520E-0CA0-47FC-9736-0E8EC3E08F12}|Client\\Client.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\client\\frmchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2667520E-0CA0-47FC-9736-0E8EC3E08F12}|Client\\Client.csproj|solutionrelative:client\\frmchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965FC033-288D-4A84-8DA9-074A7EC0A018}|Common\\Common.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\common\\domain\\tim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965FC033-288D-4A84-8DA9-074A7EC0A018}|Common\\Common.csproj|solutionrelative:common\\domain\\tim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\server\\frmserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|solutionrelative:server\\frmserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\server\\frmserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|solutionrelative:server\\frmserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2667520E-0CA0-47FC-9736-0E8EC3E08F12}|Client\\Client.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\client\\frmchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2667520E-0CA0-47FC-9736-0E8EC3E08F12}|Client\\Client.csproj|solutionrelative:client\\frmchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2667520E-0CA0-47FC-9736-0E8EC3E08F12}|Client\\Client.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\client\\usercontrols\\addpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2667520E-0CA0-47FC-9736-0E8EC3E08F12}|Client\\Client.csproj|solutionrelative:client\\usercontrols\\addpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965FC033-288D-4A84-8DA9-074A7EC0A018}|Common\\Common.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\common\\domain\\rezultatcetvrtine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965FC033-288D-4A84-8DA9-074A7EC0A018}|Common\\Common.csproj|solutionrelative:common\\domain\\rezultatcetvrtine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2667520E-0CA0-47FC-9736-0E8EC3E08F12}|Client\\Client.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\client\\usercontrols\\addfaulpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2667520E-0CA0-47FC-9736-0E8EC3E08F12}|Client\\Client.csproj|solutionrelative:client\\usercontrols\\addfaulpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965FC033-288D-4A84-8DA9-074A7EC0A018}|Common\\Common.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\common\\domain\\tiputakmice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965FC033-288D-4A84-8DA9-074A7EC0A018}|Common\\Common.csproj|solutionrelative:common\\domain\\tiputakmice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2667520E-0CA0-47FC-9736-0E8EC3E08F12}|Client\\Client.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\client\\guicontroller\\membersguicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2667520E-0CA0-47FC-9736-0E8EC3E08F12}|Client\\Client.csproj|solutionrelative:client\\guicontroller\\membersguicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2667520E-0CA0-47FC-9736-0E8EC3E08F12}|Client\\Client.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\client\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2667520E-0CA0-47FC-9736-0E8EC3E08F12}|Client\\Client.csproj|solutionrelative:client\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2667520E-0CA0-47FC-9736-0E8EC3E08F12}|Client\\Client.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\client\\frmhelp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2667520E-0CA0-47FC-9736-0E8EC3E08F12}|Client\\Client.csproj|solutionrelative:client\\frmhelp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2667520E-0CA0-47FC-9736-0E8EC3E08F12}|Client\\Client.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\client\\frmhelp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2667520E-0CA0-47FC-9736-0E8EC3E08F12}|Client\\Client.csproj|solutionrelative:client\\frmhelp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2667520E-0CA0-47FC-9736-0E8EC3E08F12}|Client\\Client.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\client\\frmgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2667520E-0CA0-47FC-9736-0E8EC3E08F12}|Client\\Client.csproj|solutionrelative:client\\frmgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2667520E-0CA0-47FC-9736-0E8EC3E08F12}|Client\\Client.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\client\\frmgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2667520E-0CA0-47FC-9736-0E8EC3E08F12}|Client\\Client.csproj|solutionrelative:client\\frmgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2667520E-0CA0-47FC-9736-0E8EC3E08F12}|Client\\Client.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\client\\usercontrols\\win.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2667520E-0CA0-47FC-9736-0E8EC3E08F12}|Client\\Client.csproj|solutionrelative:client\\usercontrols\\win.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965FC033-288D-4A84-8DA9-074A7EC0A018}|Common\\Common.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\common\\domain\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965FC033-288D-4A84-8DA9-074A7EC0A018}|Common\\Common.csproj|solutionrelative:common\\domain\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965FC033-288D-4A84-8DA9-074A7EC0A018}|Common\\Common.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\common\\domain\\rezultatigraca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965FC033-288D-4A84-8DA9-074A7EC0A018}|Common\\Common.csproj|solutionrelative:common\\domain\\rezultatigraca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965FC033-288D-4A84-8DA9-074A7EC0A018}|Common\\Common.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\common\\domain\\igrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965FC033-288D-4A84-8DA9-074A7EC0A018}|Common\\Common.csproj|solutionrelative:common\\domain\\igrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\server\\systemoperations\\nadjitimoveso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|solutionrelative:server\\systemoperations\\nadjitimoveso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2667520E-0CA0-47FC-9736-0E8EC3E08F12}|Client\\Client.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\client\\usercontrols\\deletefaul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2667520E-0CA0-47FC-9736-0E8EC3E08F12}|Client\\Client.csproj|solutionrelative:client\\usercontrols\\deletefaul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2667520E-0CA0-47FC-9736-0E8EC3E08F12}|Client\\Client.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\client\\usercontrols\\deletefaul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2667520E-0CA0-47FC-9736-0E8EC3E08F12}|Client\\Client.csproj|solutionrelative:client\\usercontrols\\deletefaul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\server\\systemoperations\\nadjirezultateso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|solutionrelative:server\\systemoperations\\nadjirezultateso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|C:\\Users\\neven\\OneDrive\\Desktop\\Server\\server\\systemoperations\\obrisirezultatso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E97ED56-5747-42DF-902F-67B75F5AE125}|Server\\Server.csproj|solutionrelative:server\\systemoperations\\obrisirezultatso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 27,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0849e941-4665-42e5-8dd0-e4c8da15dbd0}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{0849e941-4665-42e5-8dd0-e4c8da15dbd0}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UnesiIgracaSO.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\UnesiIgracaSO.cs",
+              "RelativeDocumentMoniker": "Server\\SystemOperations\\UnesiIgracaSO.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\UnesiIgracaSO.cs",
+              "RelativeToolTip": "Server\\SystemOperations\\UnesiIgracaSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T14:50:57.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IzbrisiIgrace.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\IzbrisiIgrace.cs",
+              "RelativeDocumentMoniker": "Server\\SystemOperations\\IzbrisiIgrace.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\IzbrisiIgrace.cs",
+              "RelativeToolTip": "Server\\SystemOperations\\IzbrisiIgrace.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T13:11:50.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IzbrisiTim.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\IzbrisiTim.cs",
+              "RelativeDocumentMoniker": "Server\\SystemOperations\\IzbrisiTim.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\IzbrisiTim.cs",
+              "RelativeToolTip": "Server\\SystemOperations\\IzbrisiTim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T13:15:41.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IzbrisiUtakmicu.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\IzbrisiUtakmicu.cs",
+              "RelativeDocumentMoniker": "Server\\SystemOperations\\IzbrisiUtakmicu.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\IzbrisiUtakmicu.cs",
+              "RelativeToolTip": "Server\\SystemOperations\\IzbrisiUtakmicu.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T13:15:46.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IzmeniUtakmicuSO.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\IzmeniUtakmicuSO.cs",
+              "RelativeDocumentMoniker": "Server\\SystemOperations\\IzmeniUtakmicuSO.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\IzmeniUtakmicuSO.cs",
+              "RelativeToolTip": "Server\\SystemOperations\\IzmeniUtakmicuSO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T13:32:11.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientHandler.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\ClientHandler.cs",
+              "RelativeDocumentMoniker": "Server\\ClientHandler.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\ClientHandler.cs",
+              "RelativeToolTip": "Server\\ClientHandler.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA3wK0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T00:09:06.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Communication.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Client\\Communication.cs",
+              "RelativeDocumentMoniker": "Client\\Communication.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Client\\Communication.cs",
+              "RelativeToolTip": "Client\\Communication.cs",
+              "ViewState": "AQIAAPcCAAAAAAAAAAAswAYDAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T23:35:27.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameGuiController.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Client\\GuiController\\GameGuiController.cs",
+              "RelativeDocumentMoniker": "Client\\GuiController\\GameGuiController.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Client\\GuiController\\GameGuiController.cs",
+              "RelativeToolTip": "Client\\GuiController\\GameGuiController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAApwH8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T00:57:50.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UnesiTimSO.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\UnesiTimSO.cs",
+              "RelativeDocumentMoniker": "Server\\SystemOperations\\UnesiTimSO.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\UnesiTimSO.cs",
+              "RelativeToolTip": "Server\\SystemOperations\\UnesiTimSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T14:51:00.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnesiUtakmicuSO.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\UnesiUtakmicuSO.cs",
+              "RelativeDocumentMoniker": "Server\\SystemOperations\\UnesiUtakmicuSO.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\UnesiUtakmicuSO.cs",
+              "RelativeToolTip": "Server\\SystemOperations\\UnesiUtakmicuSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T14:51:02.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IzmeniIgracaSO.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\IzmeniIgracaSO.cs",
+              "RelativeDocumentMoniker": "Server\\SystemOperations\\IzmeniIgracaSO.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\IzmeniIgracaSO.cs",
+              "RelativeToolTip": "Server\\SystemOperations\\IzmeniIgracaSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T14:51:08.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UcitajUtakmicuSO.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\UcitajUtakmicuSO.cs",
+              "RelativeDocumentMoniker": "Server\\SystemOperations\\UcitajUtakmicuSO.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\UcitajUtakmicuSO.cs",
+              "RelativeToolTip": "Server\\SystemOperations\\UcitajUtakmicuSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T14:50:55.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UcitajUtakmiceSO.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\UcitajUtakmiceSO.cs",
+              "RelativeDocumentMoniker": "Server\\SystemOperations\\UcitajUtakmiceSO.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\UcitajUtakmiceSO.cs",
+              "RelativeToolTip": "Server\\SystemOperations\\UcitajUtakmiceSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T14:50:53.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UcitajTipoveUtakmicaSO.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\UcitajTipoveUtakmicaSO.cs",
+              "RelativeDocumentMoniker": "Server\\SystemOperations\\UcitajTipoveUtakmicaSO.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\UcitajTipoveUtakmicaSO.cs",
+              "RelativeToolTip": "Server\\SystemOperations\\UcitajTipoveUtakmicaSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T14:50:52.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UcitajTimSO.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\UcitajTimSO.cs",
+              "RelativeDocumentMoniker": "Server\\SystemOperations\\UcitajTimSO.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\UcitajTimSO.cs",
+              "RelativeToolTip": "Server\\SystemOperations\\UcitajTimSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T14:50:50.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UcitajRezultatSO.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\UcitajRezultatSO.cs",
+              "RelativeDocumentMoniker": "Server\\SystemOperations\\UcitajRezultatSO.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\UcitajRezultatSO.cs",
+              "RelativeToolTip": "Server\\SystemOperations\\UcitajRezultatSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T14:50:39.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UnesiRezultatSO.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\UnesiRezultatSO.cs",
+              "RelativeDocumentMoniker": "Server\\SystemOperations\\UnesiRezultatSO.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\UnesiRezultatSO.cs",
+              "RelativeToolTip": "Server\\SystemOperations\\UnesiRezultatSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T13:57:18.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UcitajIgraceSO.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\UcitajIgraceSO.cs",
+              "RelativeDocumentMoniker": "Server\\SystemOperations\\UcitajIgraceSO.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\UcitajIgraceSO.cs",
+              "RelativeToolTip": "Server\\SystemOperations\\UcitajIgraceSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T14:50:17.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UcitajIgracaSO.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\UcitajIgracaSO.cs",
+              "RelativeDocumentMoniker": "Server\\SystemOperations\\UcitajIgracaSO.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\UcitajIgracaSO.cs",
+              "RelativeToolTip": "Server\\SystemOperations\\UcitajIgracaSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T14:50:12.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StartGameGuiController.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Client\\GuiController\\StartGameGuiController.cs",
+              "RelativeDocumentMoniker": "Client\\GuiController\\StartGameGuiController.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Client\\GuiController\\StartGameGuiController.cs",
+              "RelativeToolTip": "Client\\GuiController\\StartGameGuiController.cs",
+              "ViewState": "AQIAAM4AAAAAAAAAAAAswAwBAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T01:22:05.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\Controller.cs",
+              "RelativeDocumentMoniker": "Server\\Controller.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\Controller.cs",
+              "RelativeToolTip": "Server\\Controller.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAA7wIIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T01:45:27.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UcitajTimoveSO.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\UcitajTimoveSO.cs",
+              "RelativeDocumentMoniker": "Server\\SystemOperations\\UcitajTimoveSO.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\UcitajTimoveSO.cs",
+              "RelativeToolTip": "Server\\SystemOperations\\UcitajTimoveSO.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T16:12:12.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Broker.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\DBBroker\\Broker.cs",
+              "RelativeDocumentMoniker": "DBBroker\\Broker.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\DBBroker\\Broker.cs",
+              "RelativeToolTip": "DBBroker\\Broker.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAArwE4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T18:18:21.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "KreirajRezultatSO.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\KreirajRezultatSO.cs",
+              "RelativeDocumentMoniker": "Server\\SystemOperations\\KreirajRezultatSO.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\KreirajRezultatSO.cs",
+              "RelativeToolTip": "Server\\SystemOperations\\KreirajRezultatSO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T01:25:19.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\Server.cs",
+              "RelativeDocumentMoniker": "Server\\Server.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\Server.cs",
+              "RelativeToolTip": "Server\\Server.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAjwEIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T23:03:27.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SystemOperationBase.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\SystemOperationBase.cs",
+              "RelativeDocumentMoniker": "Server\\SystemOperations\\SystemOperationBase.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\SystemOperationBase.cs",
+              "RelativeToolTip": "Server\\SystemOperations\\SystemOperationBase.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAvwCYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T01:53:38.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Tim.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Common\\Domain\\Tim.cs",
+              "RelativeDocumentMoniker": "Common\\Domain\\Tim.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Common\\Domain\\Tim.cs",
+              "RelativeToolTip": "Common\\Domain\\Tim.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAswBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T16:13:17.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IzracunajRezultatSO.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\IzracunajRezultatSO.cs",
+              "RelativeDocumentMoniker": "Server\\SystemOperations\\IzracunajRezultatSO.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\IzracunajRezultatSO.cs",
+              "RelativeToolTip": "Server\\SystemOperations\\IzracunajRezultatSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T13:33:20.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TeamGuiController.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Client\\GuiController\\TeamGuiController.cs",
+              "RelativeDocumentMoniker": "Client\\GuiController\\TeamGuiController.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Client\\GuiController\\TeamGuiController.cs",
+              "RelativeToolTip": "Client\\GuiController\\TeamGuiController.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAQwEMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T00:55:00.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Client\\FrmMain.cs",
+              "RelativeDocumentMoniker": "Client\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Client\\FrmMain.cs",
+              "RelativeToolTip": "Client\\FrmMain.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T00:34:30.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FrmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Client\\FrmMain.cs",
+              "RelativeDocumentMoniker": "Client\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\ProSoftSeminarski\\Server\\Client\\FrmMain.cs [Design]",
+              "RelativeToolTip": "..\\ProSoftSeminarski\\Server\\Client\\FrmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T00:34:18.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MainCoordinator.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Client\\GuiController\\MainCoordinator.cs",
+              "RelativeDocumentMoniker": "Client\\GuiController\\MainCoordinator.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Client\\GuiController\\MainCoordinator.cs",
+              "RelativeToolTip": "Client\\GuiController\\MainCoordinator.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAuwJcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T00:35:44.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginGuiController.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Client\\GuiController\\LoginGuiController.cs",
+              "RelativeDocumentMoniker": "Client\\GuiController\\LoginGuiController.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Client\\GuiController\\LoginGuiController.cs",
+              "RelativeToolTip": "Client\\GuiController\\LoginGuiController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAjwCIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T01:53:46.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FrmServer.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\FrmServer.cs",
+              "RelativeDocumentMoniker": "Server\\FrmServer.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\FrmServer.cs",
+              "RelativeToolTip": "Server\\FrmServer.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAMwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T23:26:45.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FrmChange.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Client\\FrmChange.cs",
+              "RelativeDocumentMoniker": "Client\\FrmChange.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Client\\FrmChange.cs",
+              "RelativeToolTip": "Client\\FrmChange.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAEwCIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T00:32:08.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FrmServer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\FrmServer.cs",
+              "RelativeDocumentMoniker": "Server\\FrmServer.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\ProSoftSeminarski\\Server\\Server\\FrmServer.cs [Design]",
+              "RelativeToolTip": "..\\ProSoftSeminarski\\Server\\Server\\FrmServer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T23:24:35.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FrmChange.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Client\\FrmChange.cs",
+              "RelativeDocumentMoniker": "Client\\FrmChange.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\ProSoftSeminarski\\Server\\Client\\FrmChange.cs [Design]",
+              "RelativeToolTip": "..\\ProSoftSeminarski\\Server\\Client\\FrmChange.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T00:32:03.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AddPoints.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Client\\UserControls\\AddPoints.cs",
+              "RelativeDocumentMoniker": "Client\\UserControls\\AddPoints.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Client\\UserControls\\AddPoints.cs",
+              "RelativeToolTip": "Client\\UserControls\\AddPoints.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAwwC0AAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T01:49:25.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AddFaulPanel.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Client\\UserControls\\AddFaulPanel.cs",
+              "RelativeDocumentMoniker": "Client\\UserControls\\AddFaulPanel.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Client\\UserControls\\AddFaulPanel.cs",
+              "RelativeToolTip": "Client\\UserControls\\AddFaulPanel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwv1EAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T01:46:24.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RezultatCetvrtine.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Common\\Domain\\RezultatCetvrtine.cs",
+              "RelativeDocumentMoniker": "Common\\Domain\\RezultatCetvrtine.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Common\\Domain\\RezultatCetvrtine.cs",
+              "RelativeToolTip": "Common\\Domain\\RezultatCetvrtine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwHkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T17:47:14.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "MembersGuiController.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Client\\GuiController\\MembersGuiController.cs",
+              "RelativeDocumentMoniker": "Client\\GuiController\\MembersGuiController.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Client\\GuiController\\MembersGuiController.cs",
+              "RelativeToolTip": "Client\\GuiController\\MembersGuiController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAArwEsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T00:58:28.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TipUtakmice.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Common\\Domain\\TipUtakmice.cs",
+              "RelativeDocumentMoniker": "Common\\Domain\\TipUtakmice.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Common\\Domain\\TipUtakmice.cs",
+              "RelativeToolTip": "Common\\Domain\\TipUtakmice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T17:47:47.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Client\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Client\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Client\\FrmLogin.cs",
+              "RelativeToolTip": "Client\\FrmLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T00:34:06.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FrmHelp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Client\\FrmHelp.cs",
+              "RelativeDocumentMoniker": "Client\\FrmHelp.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\ProSoftSeminarski\\Server\\Client\\FrmHelp.cs [Design]",
+              "RelativeToolTip": "..\\ProSoftSeminarski\\Server\\Client\\FrmHelp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T00:33:27.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FrmHelp.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Client\\FrmHelp.cs",
+              "RelativeDocumentMoniker": "Client\\FrmHelp.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Client\\FrmHelp.cs",
+              "RelativeToolTip": "Client\\FrmHelp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T00:33:46.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "FrmGame.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Client\\FrmGame.cs",
+              "RelativeDocumentMoniker": "Client\\FrmGame.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Client\\FrmGame.cs",
+              "RelativeToolTip": "Client\\FrmGame.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T00:32:42.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FrmGame.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Client\\FrmGame.cs",
+              "RelativeDocumentMoniker": "Client\\FrmGame.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\ProSoftSeminarski\\Server\\Client\\FrmGame.cs [Design]",
+              "RelativeToolTip": "..\\ProSoftSeminarski\\Server\\Client\\FrmGame.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T00:32:37.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Win.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Client\\UserControls\\Win.cs",
+              "RelativeDocumentMoniker": "Client\\UserControls\\Win.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\ProSoftSeminarski\\Server\\Client\\UserControls\\Win.cs [Design]",
+              "RelativeToolTip": "..\\ProSoftSeminarski\\Server\\Client\\UserControls\\Win.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T00:28:40.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "RezultatIgraca.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Common\\Domain\\RezultatIgraca.cs",
+              "RelativeDocumentMoniker": "Common\\Domain\\RezultatIgraca.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Common\\Domain\\RezultatIgraca.cs",
+              "RelativeToolTip": "Common\\Domain\\RezultatIgraca.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T17:47:33.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Igrac.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Common\\Domain\\Igrac.cs",
+              "RelativeDocumentMoniker": "Common\\Domain\\Igrac.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Common\\Domain\\Igrac.cs",
+              "RelativeToolTip": "Common\\Domain\\Igrac.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T17:45:04.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "NadjiTimoveSO.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\NadjiTimoveSO.cs",
+              "RelativeDocumentMoniker": "Server\\SystemOperations\\NadjiTimoveSO.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\NadjiTimoveSO.cs",
+              "RelativeToolTip": "Server\\SystemOperations\\NadjiTimoveSO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T16:12:55.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Common\\Domain\\IEntity.cs",
+              "RelativeDocumentMoniker": "Common\\Domain\\IEntity.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Common\\Domain\\IEntity.cs",
+              "RelativeToolTip": "Common\\Domain\\IEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T18:58:16.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DeleteFaul.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Client\\UserControls\\DeleteFaul.cs",
+              "RelativeDocumentMoniker": "Client\\UserControls\\DeleteFaul.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Client\\UserControls\\DeleteFaul.cs",
+              "RelativeToolTip": "Client\\UserControls\\DeleteFaul.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwA8AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T01:39:15.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "DeleteFaul.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Client\\UserControls\\DeleteFaul.cs",
+              "RelativeDocumentMoniker": "Client\\UserControls\\DeleteFaul.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\ProSoftSeminarski\\Server\\Client\\UserControls\\DeleteFaul.cs [Design]",
+              "RelativeToolTip": "..\\ProSoftSeminarski\\Server\\Client\\UserControls\\DeleteFaul.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T01:39:14.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "NadjiRezultateSO.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\NadjiRezultateSO.cs",
+              "RelativeDocumentMoniker": "Server\\SystemOperations\\NadjiRezultateSO.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\NadjiRezultateSO.cs",
+              "RelativeToolTip": "Server\\SystemOperations\\NadjiRezultateSO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T01:28:07.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ObrisiRezultatSO.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\ObrisiRezultatSO.cs",
+              "RelativeDocumentMoniker": "Server\\SystemOperations\\ObrisiRezultatSO.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\Server\\Server\\SystemOperations\\ObrisiRezultatSO.cs",
+              "RelativeToolTip": "Server\\SystemOperations\\ObrisiRezultatSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T01:24:16.103Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
